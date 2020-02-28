@@ -7,7 +7,7 @@ This container will detect optical disks by their type and rip them automaticall
 # Output
 Disc Type | Output | Tools used
 ---|---|---
-CD | MP3 and FLAC | Ripit (lame and flac)
+CD | FLAC | Ripit 
 Data-Disk | Uncompressed .ISO | ddrescue
 DVD | MKV | MakeMKV
 BluRay | MKV | MakeMKV
